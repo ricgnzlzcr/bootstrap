@@ -1,0 +1,18 @@
+body {
+	background: #edeff0;
+}
+
+.card {
+	background: white;
+
+}
+
+.card button {
+	margin-bottom: 1em;
+}
+
+
+.row-centered {
+	text-align: center;
+}
+
