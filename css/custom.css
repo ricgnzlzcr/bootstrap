@@ -2,8 +2,6 @@ body {
 	background: #edeff0;
 }
 
-
-
 .row-centered {
 	text-align: center; 
 }
@@ -28,7 +26,11 @@ body {
 	margin-left: 10px;
 }
 
-
+.headline {
+	text-decoration: underline;
+	color: #3e474f;
+	margin-top: 1em;
+}
 
 
 /*****************************
