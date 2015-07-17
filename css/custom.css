@@ -2,17 +2,69 @@ body {
 	background: #edeff0;
 }
 
+
+
+.row-centered {
+	text-align: center; 
+}
+
+/*****************************
+*  Cards
+*****************************/
+
 .card {
 	background: white;
-
+	border-radius: 5px;
+	color: #5a6772;
 }
 
 .card button {
 	margin-bottom: 1em;
 }
 
-
-.row-centered {
-	text-align: center;
+.card h3 {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	color: white;
+	font-weight: bold;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
 }
+
+.card p {
+	color: #5a6772;
+}
+
+.stain-solver {
+	background-color: #e15258;
+}
+
+.tabs {
+	background-color: #3079AB;
+}
+
+.courses {
+	background-color: #c25975;
+}
+
+.fabricare {
+	background-color: #53BBB4;
+}
+
+.forum {
+	background-color: #7D669E;
+}
+
+.interviews {
+	 background-color: #F9845B;
+}
+
+
+
+/*****************************
+*  Button Style
+*****************************/
+
+
+
 
